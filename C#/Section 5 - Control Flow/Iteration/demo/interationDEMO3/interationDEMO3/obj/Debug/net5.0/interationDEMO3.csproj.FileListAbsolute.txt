@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\interationDEMO3.exe
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\interationDEMO3.deps.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\interationDEMO3.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\interationDEMO3.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\interationDEMO3.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\ref\interationDEMO3.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\bin\Debug\net5.0\interationDEMO3.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\ref\interationDEMO3.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\interationDEMO3\interationDEMO3\obj\Debug\net5.0\interationDEMO3.genruntimeconfig.cache

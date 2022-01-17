@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\Iteration DEMO.exe
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\Iteration DEMO.deps.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\Iteration DEMO.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\Iteration DEMO.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\Iteration DEMO.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\ref\Iteration DEMO.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\bin\Debug\net5.0\Iteration DEMO.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\ref\Iteration DEMO.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Iteration\demo\Iteration DEMO\Iteration DEMO\obj\Debug\net5.0\Iteration DEMO.genruntimeconfig.cache

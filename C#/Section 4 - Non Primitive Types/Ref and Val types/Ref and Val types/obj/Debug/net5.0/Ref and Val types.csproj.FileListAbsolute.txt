@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\Ref and Val types.exe
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\Ref and Val types.deps.json
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\Ref and Val types.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\Ref and Val types.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\Ref and Val types.dll
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\ref\Ref and Val types.dll
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\bin\Debug\net5.0\Ref and Val types.pdb
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.dll
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\ref\Ref and Val types.dll
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.pdb
+C:\Users\bioha\Documents\Coding\C#\Ref and Val types\Ref and Val types\Ref and Val types\obj\Debug\net5.0\Ref and Val types.genruntimeconfig.cache

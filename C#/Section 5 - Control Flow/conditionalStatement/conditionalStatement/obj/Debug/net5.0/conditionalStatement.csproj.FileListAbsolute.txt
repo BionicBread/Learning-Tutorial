@@ -1,0 +1,15 @@
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\conditionalStatement.exe
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\conditionalStatement.deps.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\conditionalStatement.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\conditionalStatement.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\conditionalStatement.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\ref\conditionalStatement.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\bin\Debug\net5.0\conditionalStatement.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\ref\conditionalStatement.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\conditionalStatement\conditionalStatement\obj\Debug\net5.0\conditionalStatement.genruntimeconfig.cache

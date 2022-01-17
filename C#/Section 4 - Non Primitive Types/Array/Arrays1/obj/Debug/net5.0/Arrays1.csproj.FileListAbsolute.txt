@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.exe
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.deps.json
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.dll
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\ref\Arrays1.dll
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.pdb
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.dll
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\ref\Arrays1.dll
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.pdb
+C:\Users\bioha\Documents\Coding\C#\Array\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.exe
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.deps.json
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ref\ClassExample.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.pdb
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ref\ClassExample.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.pdb
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.genruntimeconfig.cache

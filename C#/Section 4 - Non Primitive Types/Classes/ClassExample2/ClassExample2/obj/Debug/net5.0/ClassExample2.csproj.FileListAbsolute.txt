@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ClassExample2.exe
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ClassExample2.deps.json
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ClassExample2.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ClassExample2.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ClassExample2.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ref\ClassExample2.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\bin\Debug\net5.0\ClassExample2.pdb
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ref\ClassExample2.dll
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.pdb
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.genruntimeconfig.cache
+C:\Users\bioha\Documents\Coding\C#\Classes\ClassExample2\ClassExample2\ClassExample2\obj\Debug\net5.0\ClassExample2.csprojAssemblyReference.cache
