@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\Exercise 6.exe
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\Exercise 6.deps.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\Exercise 6.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\Exercise 6.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\Exercise 6.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\ref\Exercise 6.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\bin\Debug\net5.0\Exercise 6.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\ref\Exercise 6.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.genruntimeconfig.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 6\Exercise 6\Exercise 6\obj\Debug\net5.0\Exercise 6.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\Exercise 9.exe
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\Exercise 9.deps.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\Exercise 9.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\Exercise 9.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\Exercise 9.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\ref\Exercise 9.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\bin\Debug\net5.0\Exercise 9.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\ref\Exercise 9.dll
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.pdb
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.genruntimeconfig.cache
+C:\Users\bioha\Documents\Coding\C#\Control Flow\Exercise 9\Exercise 9\obj\Debug\net5.0\Exercise 9.csprojAssemblyReference.cache
