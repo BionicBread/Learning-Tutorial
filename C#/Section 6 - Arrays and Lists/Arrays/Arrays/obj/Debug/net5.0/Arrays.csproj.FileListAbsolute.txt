@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 6 - Arrays and Lists\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
