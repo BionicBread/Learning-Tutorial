@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Iteration\\demo\\interationDEMO3\\interationDEMO3\\interationDEMO3.csproj",
+      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Iteration\\demo\\interationDEMO3\\interationDEMO3\\interationDEMO3.csproj",
       "projectName": "interationDEMO3",
-      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Iteration\\demo\\interationDEMO3\\interationDEMO3\\interationDEMO3.csproj",
+      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Iteration\\demo\\interationDEMO3\\interationDEMO3\\interationDEMO3.csproj",
       "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Iteration\\demo\\interationDEMO3\\interationDEMO3\\obj\\",
+      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Iteration\\demo\\interationDEMO3\\interationDEMO3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",

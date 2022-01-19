@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Iteration\\Iteration\\Iteration\\Iteration.csproj",
+      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Iteration\\Iteration\\Iteration\\Iteration.csproj",
       "projectName": "Iteration",
-      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Iteration\\Iteration\\Iteration\\Iteration.csproj",
+      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Iteration\\Iteration\\Iteration\\Iteration.csproj",
       "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Iteration\\Iteration\\Iteration\\obj\\",
+      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Iteration\\Iteration\\Iteration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",
