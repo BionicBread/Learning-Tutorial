@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj": {}
+    "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj": {
+    "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj",
+        "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj",
         "projectName": "Exercise 8",
-        "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj",
+        "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 8\\Exercise 8\\Exercise 8.csproj",
         "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 8\\Exercise 8\\obj\\",
+        "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 8\\Exercise 8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",

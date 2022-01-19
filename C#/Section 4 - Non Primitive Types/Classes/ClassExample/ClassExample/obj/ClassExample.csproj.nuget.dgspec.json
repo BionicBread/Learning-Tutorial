@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bioha\\Documents\\Coding\\C#\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj": {}
+    "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 4 - Non Primitive Types\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bioha\\Documents\\Coding\\C#\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj": {
+    "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 4 - Non Primitive Types\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj",
+        "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 4 - Non Primitive Types\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj",
         "projectName": "ClassExample",
-        "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj",
+        "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 4 - Non Primitive Types\\Classes\\ClassExample\\ClassExample\\ClassExample.csproj",
         "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Classes\\ClassExample\\ClassExample\\obj\\",
+        "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 4 - Non Primitive Types\\Classes\\ClassExample\\ClassExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",
