@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 1\\Exercise1\\Exercise1.csproj",
-      "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 1\\Exercise1\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 6 - Arrays and Lists\\Exercise 3\\Exercise 3\\Exercise 3.csproj",
+      "projectName": "Exercise 3",
+      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 6 - Arrays and Lists\\Exercise 3\\Exercise 3\\Exercise 3.csproj",
       "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 1\\Exercise1\\obj\\",
+      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 6 - Arrays and Lists\\Exercise 3\\Exercise 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",
