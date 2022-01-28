@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\DateTime.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\DateTime.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\DateTime.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\DateTime.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\DateTime.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\ref\DateTime.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\bin\Debug\net5.0\DateTime.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\ref\DateTime.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 7 - Working with Dates\DateTime\DateTime\obj\Debug\net5.0\DateTime.genruntimeconfig.cache

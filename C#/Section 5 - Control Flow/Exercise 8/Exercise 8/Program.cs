@@ -16,17 +16,17 @@ namespace Exercise_8
             Console.WriteLine("Shhh! The secret number is " + secret);
 
             
-            Console.WriteLine("Guess #" + tries + " Please enter a number between 1 to 10");
+            Console.WriteLine("Guess #" + tries + " Please enter a number between 1 to 10"); // 
             guess = Console.ReadLine();
             int guessConvert = Int32.Parse(guess);  // Parse the string into an int
             while (guessConvert != secret)          // Loop will continue if the guess is NOT correct
             {
-                tries++;                            // iterates the try counter by 1
+                tries++;                            // iterates the try counter by 1. First guess is not in loop that is why tries is ++ 
                 Console.WriteLine("Guess #" + tries + " Please enter a number between 1 to 10");
                 guess = Console.ReadLine();         // Re-enter guess
                 guessConvert = Int32.Parse(guess);  // Parse into int
 
-                if (tries == 4)                     // Ends loops if try counter reaches 4
+                if (tries == 4)                     // Ends loops if try counter reaches 4 EDIT: this might not be necessary because of the else if statement
                     break;                          
 
             }

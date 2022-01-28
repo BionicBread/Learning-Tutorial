@@ -18,8 +18,8 @@ namespace Exercise_2
             // Console.WriteLine(nameInput.Length); // checks the length of name entered
 
             //for (int i = 0; i < nameInput.Length; i++)
-            int i = 0;
-            int p = 0;
+            int i = 0; // counter for array loop, purpose is same as i in a for loop
+            int p = 0; // counter for reverse array loop, purpose is same as i in a for loop
                 foreach (char c in nameInput)
                 {
                     nameArray[i] = c;
@@ -35,7 +35,7 @@ namespace Exercise_2
             /////////////// SKIPS array to string step /////
 
             // array to string step
-            for (int n = nameInput.Length - 1; n >= 0; n--)
+            for (int n = nameInput.Length - 1; n >= 0; n--) // -1 so the index lines up with a 0 initiated array
             {
                 reverseArray[p] = nameArray[n];
                 p++;

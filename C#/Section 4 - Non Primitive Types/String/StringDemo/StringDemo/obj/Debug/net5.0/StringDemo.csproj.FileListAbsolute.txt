@@ -14,3 +14,19 @@ C:\Users\bioha\Documents\Coding\C#\String\StringDemo\StringDemo\obj\Debug\net5.0
 C:\Users\bioha\Documents\Coding\C#\String\StringDemo\StringDemo\obj\Debug\net5.0\ref\StringDemo.dll
 C:\Users\bioha\Documents\Coding\C#\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.pdb
 C:\Users\bioha\Documents\Coding\C#\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.genruntimeconfig.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\StringDemo.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\StringDemo.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\StringDemo.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\StringDemo.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\StringDemo.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\ref\StringDemo.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\bin\Debug\net5.0\StringDemo.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\ref\StringDemo.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 4 - Non Primitive Types\String\StringDemo\StringDemo\obj\Debug\net5.0\StringDemo.genruntimeconfig.cache

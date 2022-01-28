@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 6\\Exercise 6\\Exercise 6\\Exercise 6.csproj": {}
+    "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 6\\Exercise 6\\Exercise 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 6\\Exercise 6\\Exercise 6\\Exercise 6.csproj": {
+    "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 6\\Exercise 6\\Exercise 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 6\\Exercise 6\\Exercise 6\\Exercise 6.csproj",
+        "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 6\\Exercise 6\\Exercise 6.csproj",
         "projectName": "Exercise 6",
-        "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 6\\Exercise 6\\Exercise 6\\Exercise 6.csproj",
+        "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 6\\Exercise 6\\Exercise 6.csproj",
         "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 6\\Exercise 6\\Exercise 6\\obj\\",
+        "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 6\\Exercise 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 4\\Exercise 4\\Exercise 4.csproj",
+      "projectUniqueName": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 4\\Exercise 4\\Exercise 4.csproj",
       "projectName": "Exercise 4",
-      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 4\\Exercise 4\\Exercise 4.csproj",
+      "projectPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 4\\Exercise 4\\Exercise 4.csproj",
       "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\C#\\Control Flow\\Exercise 4\\Exercise 4\\obj\\",
+      "outputPath": "C:\\Users\\bioha\\Documents\\Coding\\GitRepo\\Learning-Tutorial\\C#\\Section 5 - Control Flow\\Exercise 4\\Exercise 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bioha\\AppData\\Roaming\\NuGet\\NuGet.Config",

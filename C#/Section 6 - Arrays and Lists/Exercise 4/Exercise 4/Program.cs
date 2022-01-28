@@ -50,24 +50,24 @@ namespace Exercise_4
                     
                     
                         //Console.Write(n + ", ");    // Visual check for entered numbers
-                        // Apply on unique number mask
-                        if (numbers.Contains(number))
+                        
+                        if (numbers.Contains(number)) // IF dupilcate is found
                         {
                             //Console.WriteLine("DOES CONTAIN NUMBER");
-                            numbers.Add(number);
-                            foreach (int n in Unique)
-                            {
+                            numbers.Add(number);      // Add into numbers list
+                            foreach (int n in Unique) // Display the numbers in Unique list
+                        {
                             
                             Console.Write(n + ", ");
 
                             }
                         }
-                        else if(!numbers.Contains(number))
+                        else if(!numbers.Contains(number)) // IF no dupilcate is found 
                         {
                             //Console.WriteLine("DOES NOT CONTAIN NUMBER");
-                            numbers.Add(number);
-                            Unique.Add(number);
-                            foreach (int n in Unique)
+                            numbers.Add(number);           // Still add to numbers list
+                            Unique.Add(number);            // Also add to unqiue list
+                            foreach (int n in Unique)      // Display the numbers in Unique list
                             {
                             
                             Console.Write(n + ", ");
