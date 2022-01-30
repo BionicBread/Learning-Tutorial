@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\Summarising Text.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\Summarising Text.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\Summarising Text.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\Summarising Text.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\Summarising Text.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\ref\Summarising Text.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\bin\Debug\net5.0\Summarising Text.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\ref\Summarising Text.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Summarising Text\Summarising Text\obj\Debug\net5.0\Summarising Text.genruntimeconfig.cache
