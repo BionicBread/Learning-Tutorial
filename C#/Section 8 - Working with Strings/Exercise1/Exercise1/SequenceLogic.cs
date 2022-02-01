@@ -26,8 +26,8 @@ namespace Exercise1
             {
                 conCheck += k; // sums up the numbers in the array
             }
-            double sumOfArray = (numberArray.Length / 2 * ((2 * numberArray[0]) + ((numberArray.Length) - 1) * 1)); // arithmetric series in the postive
-            double sumOfNegArray = (numberArray.Length / 2 * ((2 * numberArray[0]) + ((numberArray.Length) - 1) * (-1))); //arithmetric series in the negative
+            double sumOfArray = (numberArray.Length / 2f * ((2 * numberArray[0]) + ((numberArray.Length) - 1) * 1)); // arithmetric series in the postive
+            double sumOfNegArray = numberArray.Length / 2f * (numberArray[0] + numberArray[numberArray.Length - 1]); //arithmetric series in the negative
             Console.WriteLine(conCheck);
             Console.WriteLine("Pos series: " + sumOfArray);
             Console.WriteLine("Neg series: " + sumOfNegArray);
