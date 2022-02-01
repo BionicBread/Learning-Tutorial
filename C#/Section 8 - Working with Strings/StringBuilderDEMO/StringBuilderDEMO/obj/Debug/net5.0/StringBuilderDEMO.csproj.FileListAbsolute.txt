@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\StringBuilderDEMO.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\StringBuilderDEMO.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\StringBuilderDEMO.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\StringBuilderDEMO.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\StringBuilderDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\ref\StringBuilderDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\bin\Debug\net5.0\StringBuilderDEMO.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\ref\StringBuilderDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\StringBuilderDEMO\StringBuilderDEMO\obj\Debug\net5.0\StringBuilderDEMO.genruntimeconfig.cache
