@@ -16,15 +16,14 @@ namespace Exercise_2
             //bool isDuplicate;
             
             int ender = 0;
-            do
-            {
+            
                 Console.WriteLine("Input some numbers that is hypen separated - Duplicates will be detected");
                 Console.WriteLine("To quit enter no values");
                 string input = Console.ReadLine();
 
                 if (input == "")
                 {
-                    break;
+                Environment.Exit(0);
                 }
 
                 string[] numbers = input.Split('-');
@@ -48,8 +47,7 @@ namespace Exercise_2
                     }
       
                  
-            }
-            while (ender == 0);
+
 
         }
     }
