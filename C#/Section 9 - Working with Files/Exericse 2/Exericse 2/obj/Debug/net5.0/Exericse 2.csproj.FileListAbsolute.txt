@@ -1,0 +1,15 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\Exericse 2.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\Exericse 2.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\Exericse 2.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\Exericse 2.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\Exericse 2.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\ref\Exericse 2.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\bin\Debug\net5.0\Exericse 2.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\ref\Exericse 2.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 9 - Working with Files\Exericse 2\Exericse 2\obj\Debug\net5.0\Exericse 2.genruntimeconfig.cache
