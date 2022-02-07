@@ -1,0 +1,15 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\Procedural Programming.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\Procedural Programming.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\Procedural Programming.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\Procedural Programming.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\Procedural Programming.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\ref\Procedural Programming.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\bin\Debug\net5.0\Procedural Programming.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\ref\Procedural Programming.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 8 - Working with Strings\Procedural Programming\Procedural Programming\obj\Debug\net5.0\Procedural Programming.genruntimeconfig.cache
