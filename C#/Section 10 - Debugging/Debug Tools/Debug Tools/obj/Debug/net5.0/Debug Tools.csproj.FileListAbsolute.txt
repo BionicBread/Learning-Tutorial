@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\Debug Tools.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\Debug Tools.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\Debug Tools.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\Debug Tools.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\Debug Tools.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\ref\Debug Tools.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\bin\Debug\net5.0\Debug Tools.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\ref\Debug Tools.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C#\Section 10 - Debugging\Debug Tools\Debug Tools\obj\Debug\net5.0\Debug Tools.genruntimeconfig.cache
