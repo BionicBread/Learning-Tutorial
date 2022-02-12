@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\AccessMod.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\AccessMod.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\AccessMod.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\AccessMod.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\AccessMod.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\ref\AccessMod.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\bin\Debug\net5.0\AccessMod.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\ref\AccessMod.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\AccessMod\AccessMod\obj\Debug\net5.0\AccessMod.genruntimeconfig.cache

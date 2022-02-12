@@ -1,0 +1,15 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ClassDEMO.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ClassDEMO.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ClassDEMO.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ClassDEMO.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ClassDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ref\ClassDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\bin\Debug\net5.0\ClassDEMO.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ref\ClassDEMO.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\ClassDEMO\ClassDEMO\obj\Debug\net5.0\ClassDEMO.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\Fields.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\Fields.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\Fields.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\Fields.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\Fields.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\ref\Fields.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\bin\Debug\net5.0\Fields.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\ref\Fields.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Fields\Fields\obj\Debug\net5.0\Fields.genruntimeconfig.cache
