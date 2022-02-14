@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.exe
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csprojAssemblyReference.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\bioha\Documents\Coding\GitRepo\Learning-Tutorial\C# - Intermediate\Section 1 - Classes\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
