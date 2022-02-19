@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Enum
+build_property.ProjectDir = C:\Users\bioha\Source\Repos\BionicBread\Learning-Tutorial\C#\Section 4 - Non Primitive Types\Enum\Enum\

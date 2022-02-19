@@ -1,0 +1,14 @@
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.exe
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.deps.json
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.runtimeconfig.json
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.runtimeconfig.dev.json
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.dll
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.pdb
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.csproj.AssemblyReference.cache
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.AssemblyInfoInputs.cache
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.AssemblyInfo.cs
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.csproj.CoreCompileInputs.cache
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.dll
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.pdb
+C:\Users\bioha\source\repos\BionicBread\Learning-Tutorial\C# - Intermediate\Section 2 - Association with Classes\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+﻿namespace Summary
+{
+    class Dog
+    {
+
+    }
+}
