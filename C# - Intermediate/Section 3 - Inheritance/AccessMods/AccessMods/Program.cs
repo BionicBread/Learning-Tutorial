@@ -22,6 +22,7 @@ namespace AccessMods
             Example client = new Example(); // Example class from a class library is not detected, a reference to the class library needs to be created
                                             // Right click dependenics > add project reference > select class library name
                                             // add the name of the class library in the Using
+            
         }
     }
 }

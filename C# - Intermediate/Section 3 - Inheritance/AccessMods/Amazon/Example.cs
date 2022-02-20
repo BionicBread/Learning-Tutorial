@@ -2,7 +2,7 @@
 
 namespace Amazon
 {
-    public partial class Example
+    partial class Example
     {
 
         public class CustomerMoney
