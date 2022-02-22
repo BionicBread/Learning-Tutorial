@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj": {}
+    "C:\\Users\\bioha\\source\\repos\\BionicBread\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj": {}
   },
   "projects": {
-    "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj": {
+    "C:\\Users\\bioha\\source\\repos\\BionicBread\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj",
+        "projectUniqueName": "C:\\Users\\bioha\\source\\repos\\BionicBread\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj",
         "projectName": "Casting",
-        "projectPath": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj",
+        "projectPath": "C:\\Users\\bioha\\source\\repos\\BionicBread\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj",
         "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\obj\\",
+        "outputPath": "C:\\Users\\bioha\\source\\repos\\BionicBread\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
