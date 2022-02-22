@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vR4uCCSsgbbL/JBt+CTkJZpI9h0BVqYCl76riRydmXdX5pRIa5BfBcInCTTLZE7USpSfWotS9k0pOQAxIJu1g==",
+  "dgSpecHash": "52vQ8zRXLRiaEsxU2SgYm1c1vijZK4wxdPj4siPxxU1Tvm0kt38AYfJ67pYpaWHmx27IF6JRvmCYJzSHIOYObg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris.Yu\\source\\repos\\Casting\\Casting.csproj",
+  "projectFilePath": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\UpAndDownCasting\\Casting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

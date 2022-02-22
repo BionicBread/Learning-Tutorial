@@ -49,6 +49,20 @@ namespace Casting
 
             Shape shape = new Text();
 
+            // Invalid cast exception could be thrown if an object cannot be casted
+            // Use the "as" keyword to check for this
+            // i.e 
+            // Car car = (Car) obj;
+            //Car car = object as Car; // if object cannot be cast, car = null
+            //if (car != null)          // checks if car was casted.
+            //{
+            //}
+            //
+
+            // "is" keyword can be used to check the type of an object
+            // if (obj is Car)
+            // {
+            // } 
 
         }
     }
