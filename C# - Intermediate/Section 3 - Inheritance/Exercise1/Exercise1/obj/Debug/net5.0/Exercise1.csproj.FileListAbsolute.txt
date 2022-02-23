@@ -1,0 +1,16 @@
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.exe
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.dll
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.dll
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+D:\Repo\Learning-Tutorial\C# - Intermediate\Section 3 - Inheritance\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
