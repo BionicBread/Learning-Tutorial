@@ -33,11 +33,12 @@
         //real-world, SQL Server provides an API for opening or closing a connection to a database.But
         //for this exercise, we don’t need to worry about it.
 
-        ////////PART 2////////////////
-        ///Now that we have the concept of a DbConnection, let’s work out how to represent a DbCommand.
+        ///////////////////PART 2//////////////////////////////////////////////////////////////////////////////////////////////////////////
+        //Now that we have the concept of a DbConnection, let’s work out how to represent a DbCommand.
         //Design a class called DbCommand for executing an instruction against the database.
         //A DbCommand cannot be in a valid state without having a connection.
-        //So in the constructor of this class, pass a DbConnection.Don’t forget to cater for the null.
+        //So in the constructor of this class, pass a DbConnection.
+        //Don’t forget to cater for the null.
         //Each DbCommand should also have the instruction to be sent to the database.
         //In case of SQLServer, this instruction is expressed in T-SQL language.
 

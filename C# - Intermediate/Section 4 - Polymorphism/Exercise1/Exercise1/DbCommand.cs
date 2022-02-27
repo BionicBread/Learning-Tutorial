@@ -2,6 +2,9 @@
 {
     public class DbCommand
     {
+        public DbCommand(DbConnection db)
+        {
 
+        }
     }
 }
