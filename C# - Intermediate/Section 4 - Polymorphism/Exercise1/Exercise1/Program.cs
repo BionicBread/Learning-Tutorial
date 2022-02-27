@@ -35,7 +35,10 @@
             //real-world, SQL Server provides an API for opening or closing a connection to a database.But
             //for this exercise, we don’t need to worry about it.
 
-            DbConnection testCon = new DbConnection();
+            SqlConnection sql = new SqlConnection();
+            sql.OpenConnection();
+            // not sure about abstract classes / methods
+            // code won't work otherwise
 
         }
     }

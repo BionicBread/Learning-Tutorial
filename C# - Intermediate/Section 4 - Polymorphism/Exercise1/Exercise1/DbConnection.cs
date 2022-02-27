@@ -6,6 +6,13 @@ namespace Exercise1
     {
         private string _connectionString; // private string that is changed in the property ConnectionString
         private TimeSpan _timeOut;
+       
+
+       
+        public TimeSpan TimeOut 
+        {
+            get { return _timeOut; } 
+        }
         public string ConnectionString 
         {
             get 
@@ -37,13 +44,14 @@ namespace Exercise1
         //    ConnectionString = inputString; // uses the setter logic in the ConnectionString property
         //}
 
-        public virtual void Open()
+       public virtual void OpenConnection()
         {
-            
+
         }
-        public virtual void Close()
+
+        public virtual void CloseConnection()
         {
-           
+
         }
     }
 }
