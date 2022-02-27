@@ -36,12 +36,15 @@ namespace Polymorphism
             // but the implemenation for Draw in Circle and Image are different
             // virtual and override keywords is useful here 
 
-            var shapes = new List<Shape>(); // create a list of Shape objects
-            shapes.Add(new Circle());       // create 
-            shapes.Add(new Rectangle());
+            List<Shape> shapes = new List<Shape>(); // create a list of Shape objects
+            shapes.Add(new Circle());       // Add created object: circle into the list. This is possible because the class class inherits from the shape class
+            shapes.Add(new Rectangle());    // Each class has the override method which means the Draw method contains different logic 
+            // IF triangle was added here then the triangle class will inherit shape and override the draw method to use separate implementation
 
             var canvas = new Canvas();
-            canvas.DrawShapes(shapes);
+            canvas.DrawShapes(shapes);  // The Canvas class contains a method which is a for loop.
+                                        // The Shape objects in the list shapes loop a method call: the Draw() method
+            // Because 
 
         }
     }
