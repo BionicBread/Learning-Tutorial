@@ -7,6 +7,8 @@ namespace InterfacesEx
         static void Main(string[] args)
         {
             // Interfaces
+            // enhances testability
+
         }
     }
 }

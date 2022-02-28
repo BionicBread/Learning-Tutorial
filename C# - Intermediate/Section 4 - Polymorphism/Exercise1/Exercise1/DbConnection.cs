@@ -34,7 +34,7 @@ namespace Exercise1
             }
               
         }
-        public DbConnection()
+        public DbConnection() // constructor that initialises fields
         {
             ConnectionString = "someConnectionString";  // start with hard coded connectionString 
             _timeOut = TimeSpan.FromSeconds(10);   // assign 10 sec value to 

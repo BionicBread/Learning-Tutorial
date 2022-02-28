@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\Sandbox1.exe
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\Sandbox1.deps.json
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\Sandbox1.runtimeconfig.json
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\Sandbox1.runtimeconfig.dev.json
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\Sandbox1.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\ref\Sandbox1.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\bin\Debug\net5.0\Sandbox1.pdb
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.csproj.AssemblyReference.cache
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.AssemblyInfo.cs
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\ref\Sandbox1.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.pdb
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Sandbox\Sandbox1\Sandbox1\obj\Debug\net5.0\Sandbox1.genruntimeconfig.cache
