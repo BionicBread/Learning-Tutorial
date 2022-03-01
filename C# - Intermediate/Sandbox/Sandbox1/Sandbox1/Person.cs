@@ -5,7 +5,7 @@ namespace Sandbox1
     class BaseRole
     {
         // private fields means it cannot be accessed outside of the class
-        private int _age;
+        private int _hitpoints;
         private string _gender;
         private int _height;
         private int _weight;
@@ -16,11 +16,11 @@ namespace Sandbox1
         {
                  
         }
-        public BaseRole(int age, string gender, int height, int weight) // constructor overload means each person object must be created with these parameters
+        public BaseRole(int hitpoints, string gender, int height, int weight) // constructor overload means each person object must be created with these parameters
         {
             // each field is assigned with the input arguements
-            this._age = age;
-            this.Gender = gender;
+            this._hitpoints = hitpoints;
+            this.Gender = gender;  // uses the property getter and setter 
             this._height = height;
             this._weight = weight;
             
@@ -50,30 +50,17 @@ namespace Sandbox1
         }
         public virtual void Attack()
         {
-            Console.WriteLine("basic hit logic");
+            Console.WriteLine("smol hit logic");
         }
 
         // lets say all base roles have a mount. we can use composition for this as BaseRole HasA Mount
-        //public BaseRole(Mount mount)
-        //{
-            
-        //}
+        // composition works in the constructor
+        // easier to instansiate the object in the class field?
+        // then call a method from that object (see below)?? 
         public void summonMount()
         {
             _mount.callMount("calls a mount");
         }
 
-    }
-
-    class Warrior : BaseRole  //Warrior inherits from BaseRole but overrides the Attack method for warrior 
-    {
-        public Warrior()
-        {
-            
-        }
-        public override void Attack()
-        {
-            Console.WriteLine("Warrior big hit logic");
-        }
     }
 }

@@ -1,21 +1,36 @@
 ﻿namespace Sandbox1
 {
+    public class DataLogger
+    {
+        public void startLogger(string message)
+        {
+            System.Console.WriteLine(message);
+        }
+    }
 
+    class NeedsALogger
+    {
+        private readonly DataLogger _logger;
+
+        public NeedsALogger(DataLogger logger) // this is composition 
+        {
+            this._logger = logger; // field points to the object
+        }
+
+        public void LogMethod()
+        {
+            _logger.startLogger("STARTED!"); // use the object via field variable to access the object class methods
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            BaseRole chris = new BaseRole(21, "M", 175, 80);
-            System.Console.WriteLine(chris.Gender);
-            BaseRole nicola = new BaseRole();
-            nicola.Gender = "f";
-            System.Console.WriteLine(nicola.Gender);
-            Warrior Alan = new Warrior();
-            Alan.Gender = "m";
-            Alan.Attack();
-            BaseRole Giulia = new BaseRole();
-            Giulia.summonMount();
-            Alan.summonMount();
+            var needsALogger = new NeedsALogger(new DataLogger()); //init with object instansiation as per constructor
+
+            needsALogger.LogMethod();
+
+
         }
     }
 }
