@@ -1,0 +1,16 @@
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\InterfacesEx.exe
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\InterfacesEx.deps.json
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\InterfacesEx.runtimeconfig.json
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\InterfacesEx.runtimeconfig.dev.json
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\InterfacesEx.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\ref\InterfacesEx.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\bin\Debug\net5.0\InterfacesEx.pdb
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.csproj.AssemblyReference.cache
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.AssemblyInfoInputs.cache
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.AssemblyInfo.cs
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.csproj.CoreCompileInputs.cache
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\ref\InterfacesEx.dll
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.pdb
+C:\Users\bioha\Documents\GitHub\Learning-Tutorial\C# - Intermediate\Section 5 - Interfaces\InterfacesEx\InterfacesEx\obj\Debug\net5.0\InterfacesEx.genruntimeconfig.cache
