@@ -4,7 +4,8 @@
     {
         private bool _isShipped;
         private float _totalCost;
-        private string _shipment;
+        //private string _shipment;
+        public Shipment Shipment { get; set; }
 
         public bool IsShipped
         {
@@ -18,11 +19,11 @@
             set { _totalCost = value; }
         }
 
-        public string Shipment 
-        {
-            get { return _shipment; }
-            set { _shipment = value; } 
-        }
+        //public string Shipment 
+        //{
+        //    get { return _shipment; }
+        //    set { _shipment = value; } 
+        //}
 
     }
 }
