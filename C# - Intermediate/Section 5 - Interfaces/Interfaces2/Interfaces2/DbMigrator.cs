@@ -3,7 +3,7 @@
 namespace Interfaces2
 {
     
-    public class DbMigrator
+    public class DbMigrator // this class talks to an interface
     {
         
         private readonly ILogger logger; 
@@ -14,7 +14,7 @@ namespace Interfaces2
         }
         public void Migrate()
         {
-            logger.LogInfo("Migration Started at {0}" + DateTime.Now); // use the interface instead of console
+            logger.LogInfo("Migration Started at" + DateTime.Now); // logger interface calls the LogInfo() method from ConsoleLogger  
             
         }
         //public void Mirgrate() // Removed for interface implementation

@@ -2,7 +2,7 @@
 
 namespace Interfaces2
 {
-    public class ConsoleLogger : ILogger
+    public class ConsoleLogger : ILogger // ConsoleLogger implements ILogger
     {
         public void LogError(string message)
         {
