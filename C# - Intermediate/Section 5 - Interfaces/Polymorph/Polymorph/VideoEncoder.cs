@@ -16,7 +16,7 @@ namespace Polymorph
             // ...some encode logic
             //_mailService.Send(new Mail());
 
-            foreach (var channel in _notificationChannels) // loop through each notification method in the list and send
+            foreach (INotificationChannel channel in _notificationChannels) // loop through each notification method in the list and send
             {
                 channel.Send(new Message());
             }
