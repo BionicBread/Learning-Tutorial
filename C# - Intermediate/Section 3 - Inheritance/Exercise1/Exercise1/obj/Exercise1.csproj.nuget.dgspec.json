@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj": {}
+    "C:\\Users\\bioha\\Documents\\GitHub\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj": {}
   },
   "projects": {
-    "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj": {
+    "C:\\Users\\bioha\\Documents\\GitHub\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj",
+        "projectUniqueName": "C:\\Users\\bioha\\Documents\\GitHub\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
-        "projectPath": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj",
+        "projectPath": "C:\\Users\\bioha\\Documents\\GitHub\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\Exercise1.csproj",
         "packagesPath": "C:\\Users\\bioha\\.nuget\\packages\\",
-        "outputPath": "D:\\Repo\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\obj\\",
+        "outputPath": "C:\\Users\\bioha\\Documents\\GitHub\\Learning-Tutorial\\C# - Intermediate\\Section 3 - Inheritance\\Exercise1\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

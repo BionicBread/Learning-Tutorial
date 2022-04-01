@@ -23,8 +23,13 @@ namespace Exercise1
 
         public Object Pop() // returns the first element in the stack
         {
-            var top = list[list.Count - 1];
-            list.Remove(list[list.Count -1]);
+            if (list.Count == 0)
+            {
+                throw new InvalidOperationException("Stack is empty");
+            }
+            int index = list.Count - 1;
+            var top = list[index];
+            list.Remove(list[index]);
             return top;
       
         }     
