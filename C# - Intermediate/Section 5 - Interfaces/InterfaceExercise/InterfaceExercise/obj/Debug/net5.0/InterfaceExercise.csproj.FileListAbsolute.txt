@@ -1,0 +1,16 @@
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.exe
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.deps.json
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.runtimeconfig.json
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.dll
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\ref\InterfaceExercise.dll
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.pdb
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.csproj.AssemblyReference.cache
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.dll
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\ref\InterfaceExercise.dll
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.pdb
+C:\Users\bioha\source\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.genruntimeconfig.cache
